@@ -38,6 +38,7 @@ powershell -c irm https://github.com/goldwinston/roblox-xeno/releases/latest/dow
 </div>
 ---
 ### Если быстрая команда не сработала:
+---
 
 1. **Скачай Xeno.exe вручную из раздела Releases.**
 
