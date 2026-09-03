@@ -3,10 +3,10 @@
 # 🚀 Xeno Injector
 ### The Ultimate Roblox Executor
 
-[![GitHub stars](https://img.shields.io/github/stars/goldwinston/roblox-xeno?style=for-the-badge&color=yellow)](https://github.com/goldwinston/roblox-xeno/stargazers)
-[![GitHub downloads](https://img.shields.io/github/downloads/goldwinston/roblox-xeno/total?style=for-the-badge&color=blue)](https://github.com/goldwinston/roblox-xeno/releases)
-[![GitHub release](https://img.shields.io/github/v/release/goldwinston/roblox-xeno?style=for-the-badge&color=green)](https://github.com/goldwinston/roblox-xeno/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=for-the-badge)](https://github.com/goldwinston/roblox-xeno)
+![GitHub stars](https://img.shields.io/badge/Stars-527-brightgreen?style=for-the-badge&logo=github)
+![Downloads](https://img.shields.io/badge/Downloads-3.4k-blue?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Version-v1.3.60-purple?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge)
 
 **Xeno Injector** — это мощный и стабильный инжектор для Roblox, поддерживающий широкий спектр скриптов и обеспечивающий высокую производительность.
 
